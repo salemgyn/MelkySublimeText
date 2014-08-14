@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda"
+	]
+}
